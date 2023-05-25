@@ -1,4 +1,5 @@
 import pandas as pd
+import scipy
 from scipy.signal import find_peaks
 import streamlit as st
 from sklearn.linear_model import LinearRegression
