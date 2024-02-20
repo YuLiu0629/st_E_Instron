@@ -7,7 +7,7 @@ This code creates an online streamlit app for analysing data collected using Ins
 ```
 streamlit run st_E_Instron.py
 ```
-The app should now be running on your browser! 🍻 
+The app should now be running on your browser! :beers:
 
 ### Alternatively
 The app can be easily accessed on http://172.22.94.79:8501
