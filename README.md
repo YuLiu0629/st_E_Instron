@@ -1,6 +1,9 @@
 # st_E_Instron
 This code creates an online streamlit app for analysing data collected using Instron to get young's modulus of tested materials. 
 
+> [!CAUTION]
+> This code is written at colleague's request, the equation for calculation might not be correct, please double check the code before using! I am cerrently checking with the colleague for validation of this method. Modification and references will be added afterwards!
+
 ## How to use
 1. Install streamlit, information on installing streamlit can be found on https://docs.streamlit.io/get-started/installation
 2. Save the .py file and run this code in your terminal using
